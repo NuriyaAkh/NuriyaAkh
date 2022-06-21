@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nuriya Akhmedova
 
 ⚡ I am aspiring Front End developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nuriya-akhmedova/">LinkedIn</a>   
 <!--
