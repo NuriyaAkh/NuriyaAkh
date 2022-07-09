@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Nuriya Akhmedova
 
-⚡ I am aspiring Front End developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+⚡ I am  Front End developer
+- 🌱My skills: HTML, CSS, JavaScript, React
+      My stack : MERN
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nuriya-akhmedova/">LinkedIn</a>   
 <!--
