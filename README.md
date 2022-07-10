@@ -2,7 +2,8 @@
 
 ⚡ I am  Front End developer
 - 🌱My skills: HTML, CSS, JavaScript, React
-      My stack : MERN
+-  🌱My stack : MERN
+      
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nuriya-akhmedova/">LinkedIn</a>   
 <!--
