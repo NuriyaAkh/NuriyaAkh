@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nuriya Akhmedova
 
 ⚡ I am  Full stack developer
-- 🌱My skills: HTML, CSS, JavaScript, React
+- 🌱My skills: HTML, CSS, JavaScript, React, Firebase,Figma
 -  🌱My stack : MERN
       
 
